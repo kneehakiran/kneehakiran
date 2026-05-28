@@ -4,6 +4,8 @@
   BTech CSE Student &nbsp;|&nbsp; Python Developer &nbsp;|&nbsp; Exploring AI & Cybersecurity
   <br/>
   Andhra Pradesh, India &nbsp;·&nbsp; Open to online internships
+  <br/>
+  🌐 <a href="https://kneehakiran.github.io">kneehakiran.github.io</a>
 </p>
 
 ---
