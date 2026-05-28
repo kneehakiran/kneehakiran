@@ -27,7 +27,8 @@ I'm a BTech CSE student (completed 3rd year) building real-world Python projects
 | [Smart Interview Simulator](https://github.com/kneehakiran/smart-interview-simulator) | Simulates HR + technical interview rounds, scores responses, generates performance reports | Python, File Handling |
 | [QuestVault](https://github.com/kneehakiran/QuestVault) | Gamified CLI productivity tracker — earn XP and level up by completing tasks | Python, File Handling |
 | [Password Strength Analyzer](https://github.com/kneehakiran/password-strength-analyzer) | Generates secure passwords and evaluates strength by length, diversity, and symbols | Python |
-| [Shopping Cart](https://github.com/kneehakiran/shopping-cart) | Responsive React e-commerce UI with live API data, filtering, wishlist, and cart | HTML, CSS, JavaScript (basics) |
+| [Shopping Cart](https://github.com/kneehakiran/shopping-cart) | Simple e-commerce shopping cart UI built while learning web basics — AI-assisted project | HTML, CSS, JavaScript (basics) |
+| [Secure Message Encryptor](https://github.com/kneehakiran/secure-message-encryptor) | GUI-based message encryptor & decryptor using Caesar cipher logic, built with Python and Tkinter | Python, Tkinter |
 
 ---
 
@@ -37,7 +38,7 @@ I'm a BTech CSE student (completed 3rd year) building real-world Python projects
 `Python` `JavaScript(basics)` `HTML` `CSS`
 
 **Concepts**
-`File Handling` `CLI Application Development` `Logic-driven Evaluation` `REST APIs (learning)` `OOP (learning)`
+`File Handling` `CLI Application Development` `Logic-driven Evaluation`  `OOP (learning)`
 
 **Tools**
 `Git` `GitHub` `VS Code`
