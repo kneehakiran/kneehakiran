@@ -27,14 +27,14 @@ I'm a BTech CSE student (completed 3rd year) building real-world Python projects
 | [Smart Interview Simulator](https://github.com/kneehakiran/smart-interview-simulator) | Simulates HR + technical interview rounds, scores responses, generates performance reports | Python, File Handling |
 | [QuestVault](https://github.com/kneehakiran/QuestVault) | Gamified CLI productivity tracker — earn XP and level up by completing tasks | Python, File Handling |
 | [Password Strength Analyzer](https://github.com/kneehakiran/password-strength-analyzer) | Generates secure passwords and evaluates strength by length, diversity, and symbols | Python |
-| [Shopping Cart](https://github.com/kneehakiran/shopping-cart) | Responsive React e-commerce UI with live API data, filtering, wishlist, and cart | React, JavaScript |
+| [Shopping Cart](https://github.com/kneehakiran/shopping-cart) | Responsive React e-commerce UI with live API data, filtering, wishlist, and cart | HTML, CSS, JavaScript (basics) |
 
 ---
 
 ## Skills
 
 **Languages**
-`Python` `JavaScript` `HTML` `CSS`
+`Python` `JavaScript(basics)` `HTML` `CSS`
 
 **Concepts**
 `File Handling` `CLI Application Development` `Logic-driven Evaluation` `REST APIs (learning)` `OOP (learning)`
@@ -68,6 +68,7 @@ I'm a BTech CSE student (completed 3rd year) building real-world Python projects
 
 ## Connect with me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://kneehakiran.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeha-kiran-kambala-0070b52b9/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kneehakiran@gmail.com)
 
